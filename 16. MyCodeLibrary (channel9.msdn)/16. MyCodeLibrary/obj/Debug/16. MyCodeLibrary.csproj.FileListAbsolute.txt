@@ -1,0 +1,6 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyCodeLibrary\16. MyCodeLibrary\obj\Debug\16. MyCodeLibrary.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyCodeLibrary\16. MyCodeLibrary\obj\Debug\16. MyCodeLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyCodeLibrary\16. MyCodeLibrary\bin\Debug\_16.MyCodeLibrary.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyCodeLibrary\16. MyCodeLibrary\bin\Debug\_16.MyCodeLibrary.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyCodeLibrary\16. MyCodeLibrary\obj\Debug\_16.MyCodeLibrary.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyCodeLibrary\16. MyCodeLibrary\obj\Debug\_16.MyCodeLibrary.pdb

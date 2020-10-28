@@ -1,0 +1,10 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\bin\Debug\_16.MyClient.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\bin\Debug\_16.MyClient.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\bin\Debug\_16.MyClient.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\bin\Debug\_16.MyCodeLibrary.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\bin\Debug\_16.MyCodeLibrary.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\obj\Debug\16. MyClient.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\obj\Debug\16. MyClient.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\obj\Debug\16. MyClient.csproj.CopyComplete
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\obj\Debug\_16.MyClient.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. MyClient\16. MyClient\obj\Debug\_16.MyClient.pdb

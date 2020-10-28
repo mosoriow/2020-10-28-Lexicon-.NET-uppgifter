@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\17. WorkingWithCollections\17. WorkingWithCollections\bin\Debug\_17.WorkingWithCollections.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\17. WorkingWithCollections\17. WorkingWithCollections\bin\Debug\_17.WorkingWithCollections.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\17. WorkingWithCollections\17. WorkingWithCollections\bin\Debug\_17.WorkingWithCollections.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\17. WorkingWithCollections\17. WorkingWithCollections\obj\Debug\17. WorkingWithCollections.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\17. WorkingWithCollections\17. WorkingWithCollections\obj\Debug\17. WorkingWithCollections.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\17. WorkingWithCollections\17. WorkingWithCollections\obj\Debug\_17.WorkingWithCollections.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\17. WorkingWithCollections\17. WorkingWithCollections\obj\Debug\_17.WorkingWithCollections.pdb

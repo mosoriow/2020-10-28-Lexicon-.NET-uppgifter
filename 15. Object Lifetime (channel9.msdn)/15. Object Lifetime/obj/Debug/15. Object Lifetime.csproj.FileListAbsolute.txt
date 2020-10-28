@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\15. Object Lifetime\15. Object Lifetime\bin\Debug\_15.Object_Lifetime.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\15. Object Lifetime\15. Object Lifetime\bin\Debug\_15.Object_Lifetime.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\15. Object Lifetime\15. Object Lifetime\bin\Debug\_15.Object_Lifetime.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\15. Object Lifetime\15. Object Lifetime\obj\Debug\15. Object Lifetime.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\15. Object Lifetime\15. Object Lifetime\obj\Debug\15. Object Lifetime.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\15. Object Lifetime\15. Object Lifetime\obj\Debug\_15.Object_Lifetime.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\15. Object Lifetime\15. Object Lifetime\obj\Debug\_15.Object_Lifetime.pdb

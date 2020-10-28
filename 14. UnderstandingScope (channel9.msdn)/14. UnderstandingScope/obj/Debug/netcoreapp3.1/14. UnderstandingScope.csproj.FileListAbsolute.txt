@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\bin\Debug\netcoreapp3.1\14. UnderstandingScope.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\bin\Debug\netcoreapp3.1\14. UnderstandingScope.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\bin\Debug\netcoreapp3.1\14. UnderstandingScope.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\bin\Debug\netcoreapp3.1\14. UnderstandingScope.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\bin\Debug\netcoreapp3.1\14. UnderstandingScope.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\bin\Debug\netcoreapp3.1\14. UnderstandingScope.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\obj\Debug\netcoreapp3.1\14. UnderstandingScope.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\obj\Debug\netcoreapp3.1\14. UnderstandingScope.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\obj\Debug\netcoreapp3.1\14. UnderstandingScope.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\obj\Debug\netcoreapp3.1\14. UnderstandingScope.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\obj\Debug\netcoreapp3.1\14. UnderstandingScope.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\obj\Debug\netcoreapp3.1\14. UnderstandingScope.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\14. UnderstandingScope\14. UnderstandingScope\obj\Debug\netcoreapp3.1\14. UnderstandingScope.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeLibrary\obj\Debug\ScrapeLibrary.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeLibrary\obj\Debug\ScrapeLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb

@@ -1,0 +1,10 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\obj\Debug\ScrapeClient.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\obj\Debug\ScrapeClient.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\bin\Debug\ScrapeClient.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\bin\Debug\ScrapeClient.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\obj\Debug\ScrapeClient.csproj.CopyComplete
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\obj\Debug\ScrapeClient.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\16. Lesson 18\ScrapeClient\obj\Debug\ScrapeClient.pdb
